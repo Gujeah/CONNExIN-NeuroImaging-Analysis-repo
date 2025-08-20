@@ -1,2 +1,7 @@
-# CONNExIN-NeuroImaging-Analysis-repo
-This will be our repository for the projects we will be working on
+# Structural Team, CONNExIN-NeuroImaging-Analysis-repo
+# Team Members
+
+**Zainab Magaji Musa**  
+Department of Computer Science, Aliko Dangote University of Science and Technology (ADUSTECH), Wudil, Kano, Nigeria  
+PhD Student, Department of Computer Science, Bayero University Kano (BUK), Kano, Nigeria  
+

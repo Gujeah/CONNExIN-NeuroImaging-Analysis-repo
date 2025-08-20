@@ -3,6 +3,7 @@
 # Team Members
 
 **Ethel Phiri**
+
 Biomedical Engineering Department, Malawi University of Science and Technology
 
 **Bijay Adhikari**  

@@ -1,9 +1,8 @@
 # Structural Team, CONNExIN-NeuroImaging-Analysis-repo
 # Team Members
 
-**Bijay Adhikari**
-
-Nepal Research and Collaboration Center, Nepal
+**Bijay Adhikari**  
+Nepal Research and Collaboration Center, Nepal  
 Institue of Science and Technology, Birendra Multiple Campus, Tribhuvan University, Nepal
 
 **Zainab Magaji Musa**  

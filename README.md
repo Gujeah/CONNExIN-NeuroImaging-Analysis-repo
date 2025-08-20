@@ -4,7 +4,7 @@
 
 **Ethel Phiri**
 
-Biomedical Engineering Department, Malawi University of Science and Technology
+Biomedical Engineering Department, Malawi University of Science and Technology, Thyolo, Malawi
 
 **Bijay Adhikari**  
 Nepal Research and Collaboration Center, Nepal  

@@ -2,6 +2,7 @@
 # Team Members
 
 **Bijay Adhikari**
+
 Nepal Research and Collaboration Center, Nepal
 Institue of Science and Technology, Birendra Multiple Campus, Tribhuvan University, Nepal
 

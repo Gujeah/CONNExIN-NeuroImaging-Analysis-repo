@@ -17,3 +17,7 @@ PhD Student, Department of Computer Science, Bayero University Kano (BUK), Kano,
 **Ernest Obbie Zulu**
 UNMISS Level I Clinic, Wau Field Office, Western Bahr El Ghazal, Republic of South Sudan
 Radiologist & Postgraduate Student in Neuroimaging for Research, University of Edinburgh, UK
+
+
+**Leila Osman Hussein**
+Radiographer, Kenyatta University Teaching, Referral and Research Hospital, Kenya

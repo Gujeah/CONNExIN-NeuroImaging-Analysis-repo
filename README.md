@@ -91,7 +91,7 @@ Finally to all the members of the structural Team (A+T+S)for making this journey
 
 # References Used
 
-[Reference](References)
+Find out more about this projec by visiting some of the literatures we used [Reference](References)
 
 # Team Members
 

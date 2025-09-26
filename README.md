@@ -1,5 +1,9 @@
 # Longitudinal Analysis of Cortical and Subcortical Volumes Pipeline in the Prevent-AD Dataset (Structural Team)
 
+<img src="repo Banner.png" alt="Project Banner" width="100%">
+
+
+
 This project implements a **fully reproducible, automated pipeline** to analyze longitudinal structural MRI data from the [Prevent-AD dataset]. We track subtle changes in cortical thickness and subcortical volumes over 12 months in a single at-risk participant, revealing patterns consistent with early Alzheimer’s disease.
 
 **Motivation**: Early detection of structural alterations is critical for understanding disease progression
@@ -30,18 +34,40 @@ To address this research question, we applied a **structural imaging analysis pi
   - `run_freesurfer_preprocessing.sh` → FreeSurfer longitudinal processing
   - `analysis.py` → Runs analysis to generate reports
 
+# Results from Analysis
+
+### Volumetric changes
+
+### cortical thinning
+
+# Reproducability
+
+### Prerequsites
+
+### Steps
+
+> Clone this repo:
+
+```bash
+git clone https://github.com/Gujeah/CONNExIN-NeuroImaging-Analysis-repo.git
+
+
+# Tools and Technologies used
+
+# Acknowldgements
+
 # Team Members
 
 **Ethel Phiri**
 
 Biomedical Engineering Department, Malawi University of Science and Technology, Thyolo, Malawi
 
-**Bijay Adhikari**  
-Nepal Research and Collaboration Center, Nepal  
+**Bijay Adhikari**
+Nepal Research and Collaboration Center, Nepal
 Institue of Science and Technology, Birendra Multiple Campus, Tribhuvan University, Nepal
 
-**Zainab Magaji Musa**  
-Department of Computer Science, Aliko Dangote University of Science and Technology (ADUSTECH), Wudil, Kano, Nigeria  
+**Zainab Magaji Musa**
+Department of Computer Science, Aliko Dangote University of Science and Technology (ADUSTECH), Wudil, Kano, Nigeria
 PhD Student, Department of Computer Science, Bayero University Kano (BUK), Kano, Nigeria
 
 **Ernest Obbie Zulu**
@@ -50,3 +76,4 @@ Radiologist & Postgraduate Student in Neuroimaging for Research, University of E
 
 **Leila Osman Hussein**
 Radiographer, Kenyatta University Teaching, Referral and Research Hospital, Kenya
+```

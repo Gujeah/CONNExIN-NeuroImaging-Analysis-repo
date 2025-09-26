@@ -115,8 +115,7 @@ Department of Computer Science, Aliko Dangote University of Science and Technolo
 PhD Student, Department of Computer Science, Bayero University Kano (BUK), Kano, Nigeria
 
 **Ernest Obbie Zulu**
-UNMISS Level I Clinic, Wau Field Office, Western Bahr El Ghazal, Republic of South Sudan
-Radiologist & Postgraduate Student in Neuroimaging for Research, University of Edinburgh, UK
+Department of Medical Imaging, Northern Command Military Hospital & Maina Soko Medical Centre, Zambia.
 
 **Leila Osman Hussein**
 Radiographer, Kenyatta University Teaching, Referral and Research Hospital, Kenya.

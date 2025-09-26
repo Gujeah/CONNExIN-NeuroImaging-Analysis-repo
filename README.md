@@ -5,13 +5,13 @@
 ### Quick links for easy navigation.
 
 [![Step 1](https://img.shields.io/badge/Step%201-Data%20Organization-blue?style=flat-square)](data/raw/)
-[![Step 1](https://img.shields.io/badge/Step%201-Bids%20Validation-pink?style=flat-square)](data/bidsfied_data/)
-[![Step 2](https://img.shields.io/badge/Step%202-Quality%20Control-orange?style=flat-square)](reports/)
-[![Step 3](https://img.shields.io/badge/Step%203-Preprocessing-yellow?style=flat-square)](scripts/run_freesurfer_preprocessing.sh)
-[![Step 4](https://img.shields.io/badge/Step%204-Analysis-green?style=flat-square)](Analysis)
-[![Step 5](https://img.shields.io/badge/Step%205-Pipeline%20Automation-lightgrey?style=flat-square)](Scripts/)
-[![Step 6](https://img.shields.io/badge/Step%206-Results%20&%20Figures-purple?style=flat-square)](Analysis/output_dir)
-[![Step 7](https://img.shields.io/badge/Step%207-Report%20&%20Docs-red?style=flat-square)](Docs/)
+[![Step 2](https://img.shields.io/badge/Step%201-Bids%20Validated-pink?style=flat-square)](data/bidsfied_data/)
+[![Step 3](https://img.shields.io/badge/Step%202-Quality%20Control-orange?style=flat-square)](reports/)
+[![Step 4](https://img.shields.io/badge/Step%203-Preprocessing-yellow?style=flat-square)](scripts/run_freesurfer_preprocessing.sh)
+[![Step 5](https://img.shields.io/badge/Step%204-Analysis-green?style=flat-square)](Analysis)
+[![Step 6](https://img.shields.io/badge/Step%205-Pipeline%20Automation-lightgrey?style=flat-square)](Scripts/)
+[![Step 7](https://img.shields.io/badge/Step%206-Results%20&%20Figures-purple?style=flat-square)](Analysis/output_dir)
+[![Step 8](https://img.shields.io/badge/Step%207-Report%20&%20Docs-red?style=flat-square)](Docs/)
 
 This project implements a **fully reproducible, automated pipeline** to analyze longitudinal structural MRI data from the **Prevent-AD dataset**. We track subtle changes in cortical thickness and subcortical volumes over 12 months in a single at-risk participant, revealing patterns consistent with early Alzheimer’s disease.
 
@@ -72,7 +72,9 @@ Check how you can reproduce this in detail by clicking this link [Reproducabilit
 - **Environment**: [Neurodesk](https://neurodesk.org/)
 - **Data**: Prevent-AD
 
-# N
+# Note
+
+Dataset Available upon request
 
 # Acknowledgements
 

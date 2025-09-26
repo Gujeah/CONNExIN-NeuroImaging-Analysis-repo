@@ -1,4 +1,4 @@
-# Structural Team, CONNExIN-NeuroImaging-Analysis-repo
+# Longitudinal Analysis of Cortical and Subcortical Volumes in the Prevent-AD Dataset (Structural Team)
 
 # Team Members
 

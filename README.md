@@ -46,18 +46,19 @@ To address this research question, we applied a **structural imaging analysis pi
 # Results from Analysis
 
 ### Volumetric changes
+
 ![Volumetric Bar Plot](volumetric.png)
 
 - Right hippocampus: **−0.9%**
 - Lateral ventricles: stable (minor fluctuations due to noise)
 
 ### Cortical Thinning
+
 ![Cortical Thickness Bar Plot](cortical_thinning.png)
 
 - Right entorhinal cortex: **−3.2%**
 - Precuneus: **−1.3% (L), −0.9% (R)**
 - Superior temporal gyrus: **−2.1% (R)**
-
 
 # Reproducability
 
@@ -87,6 +88,10 @@ Udunna and Ethan for directing this program, and to our supervisors and co-Super
 Mohamed, Sergio Solís Barquero, And Tolulope Olusuyi for all the Support and advice they gave
 towards the success of this project.
 Finally to all the members of the structural Team (A+T+S)for making this journey a memorable one.
+
+# References Used
+
+[Reference](References)
 
 # Team Members
 

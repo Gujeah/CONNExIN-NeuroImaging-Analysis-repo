@@ -64,12 +64,6 @@ To address this research question, we applied a **structural imaging analysis pi
 
 Check how you can reproduce this in detail by clicking this link [Reproducability](Scripts)
 
-> Clone this repo:
-
-```bash
-git clone https://github.com/Gujeah/CONNExIN-NeuroImaging-Analysis-repo.git
-```
-
 # Tools and Technologies used
 
 - **Neuroimaging**: [FreeSurfer v7.4.1](https://surfer.nmr.mgh.harvard.edu/), [MRIQC v24.0.2](https://mriqc.org/), [BIDS](https://bids.neuroimaging.io/)

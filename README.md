@@ -46,8 +46,18 @@ To address this research question, we applied a **structural imaging analysis pi
 # Results from Analysis
 
 ### Volumetric changes
+![Volumetric Bar Plot](volumetric.png)
 
-### cortical thinning
+- Right hippocampus: **−0.9%**
+- Lateral ventricles: stable (minor fluctuations due to noise)
+
+### Cortical Thinning
+![Cortical Thickness Bar Plot](cortical_thinning.png)
+
+- Right entorhinal cortex: **−3.2%**
+- Precuneus: **−1.3% (L), −0.9% (R)**
+- Superior temporal gyrus: **−2.1% (R)**
+
 
 # Reproducability
 

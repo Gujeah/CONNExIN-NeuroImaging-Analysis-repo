@@ -3,7 +3,7 @@
 <img src="repo Banner.png" alt="Project Banner" width="100%">
 
 [![Step 1](https://img.shields.io/badge/Step%201-Data%20Organization-blue?style=flat-square)](data/raw/)
-[![Step 1](https://img.shields.io/badge/Step%201-Data%20Validation-pink?style=flat-square)](data/bidsfied data/)
+[![Step 1](https://img.shields.io/badge/Step%201-Data%20Validation-pink?style=flat-square)](data/bidsfied_data/)
 [![Step 2](https://img.shields.io/badge/Step%202-Quality%20Control-orange?style=flat-square)](reports/)
 [![Step 3](https://img.shields.io/badge/Step%203-Preprocessing-yellow?style=flat-square)](scripts/run_freesurfer_preprocessing.sh)
 [![Step 4](https://img.shields.io/badge/Step%204-Analysis-green?style=flat-square)](Analysis)

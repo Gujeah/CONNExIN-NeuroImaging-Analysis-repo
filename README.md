@@ -1,4 +1,20 @@
-# Longitudinal Analysis of Cortical and Subcortical Volumes in the Prevent-AD Dataset (Structural Team)
+# Longitudinal Analysis of Cortical and Subcortical Volumes Pipeline in the Prevent-AD Dataset (Structural Team)
+
+This project implements a **fully reproducible, automated pipeline** to analyze longitudinal structural MRI data from the [Prevent-AD dataset]. We track subtle changes in cortical thickness and subcortical volumes over 12 months in a single at-risk participant, revealing patterns consistent with early Alzheimer’s disease.
+
+**Motivation**: Early detection of structural alterations is critical for understanding disease progression
+and identifying individuals at high risk for AD, especially those with a strong family history. The
+Prevent-AD dataset provides a unique longitudinal neuroimaging resource that allows researchers to
+monitor subtle changes in brain anatomy across multiple timepoints in cognitively unimpaired but
+at-risk participants. By investigating structural changes across sessions, researchers can better
+understand preclinical AD progression and evaluate imaging biomarkers that may be predictive of
+cognitive decline.
+
+**Research Question**: How do participants’ cortical and subcortical volumes change over time in the
+Prevent-AD dataset?
+
+**Hypothesis**: We hypothesize that cortical thickness will show progressive decline over time, particularly in temporal and parietal regions, while subcortical volumes will display region-specific atrophy. These patterns reflect structural trajectories commonly observed in the preclinical stages of Alzheimer’s disease.
+To address this research question, we applied a **structural imaging analysis pipeline** consisting of BIDS validation, quality control (QC), reconstruction preprocessing, and analysis (extraction of cortical and subcortical measures).
 
 # Project Structure
 

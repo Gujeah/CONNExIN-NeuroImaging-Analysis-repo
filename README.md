@@ -14,6 +14,10 @@ Institue of Science and Technology, Birendra Multiple Campus, Tribhuvan Universi
 Department of Computer Science, Aliko Dangote University of Science and Technology (ADUSTECH), Wudil, Kano, Nigeria  
 PhD Student, Department of Computer Science, Bayero University Kano (BUK), Kano, Nigeria
 
-**Ernet Obbie Zulu**
+**Ernest Obbie Zulu**
 UNMISS Level I Clinic, Wau Field Office, Western Bahr El Ghazal, Republic of South Sudan
 Radiologist & Postgraduate Student in Neuroimaging for Research, University of Edinburgh, UK
+
+
+**Leila Osman Hussein**
+Radiographer, Kenyatta University Teaching, Referral and Research Hospital, Kenya

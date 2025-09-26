@@ -31,17 +31,28 @@ To address this research question, we applied a **structural imaging analysis pi
 
 # Project Structure
 
-- **`analysis/`**: Contains the Python analysis script (`analysis.py`) and automatically generated figures.
-- **`data/`**: Holds the input data including raw dataset andd longitudinal volumetric and cortical thickness `.tsv` files extracted from FreeSurfer.
-
-  - `raw` → Contains dataset in Bids format
-
-- **`notebooks/`** : Contains notebooks used for trial and error analysis -**`reports/`** : Contains MRIQC reports which were generated from runing mriqc
-- **`scripts/`**: Contains a pipeline for end-to-end reproducibility:
-  - `bids_validation.sh` → BIDS validation
-  - `run_mriqc.sh` → Quality control
-  - `run_freesurfer_preprocessing.sh` → FreeSurfer longitudinal processing
-  - `analysis.py` → Runs analysis to generate reports
+```bash
+neuroimaging-project/
+├── Analysis/
+│   ├── analysis_brain_script.py
+│   ├── run_analysis.sh
+│   ├── logs/
+│   └── output_dir/
+├── Docs/                          # Documentation
+├── references/                    # Papers, references
+├── Scripts/                       # Bash scripts pipeline
+│   ├── bids_validation.sh         # BIDS validation
+│   ├── mriqc_run.sh              # MRI quality control
+│   ├── run_freesurfer_preprocessing.sh  # FreeSurfer processing
+│   └── run_analysis.sh           # Main analysis script
+├── data/
+│   ├── raw/                      # Raw data
+│   └── bidsfied_data/            # BIDS-formatted data
+├── notebooks/                    # Jupyter notebooks
+├── reports/                      # Generated reports, figures
+├── README.md
+└── .gitignore
+```
 
 # Results from Analysis
 

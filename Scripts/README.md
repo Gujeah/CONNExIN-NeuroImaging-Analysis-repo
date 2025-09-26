@@ -54,7 +54,12 @@ pip install pandas matplotlib numpy seaborn os-sys
 git clone https://github.com/Gujeah/CONNExIN-NeuroImaging-Analysis-repo.git
 ```
 
-2. Upload your zipped file to neurodesk
+2. Upload your zipped file to neurodesk and unzip it
+
+```bash
+unzip your_file_name.zip
+```
+
 3. Make the scripts excutable by
 
 ````bash
@@ -85,17 +90,20 @@ chmod+x run_mriqc.sh
 6. Run freefurfer to preprocess data.
    This step is hard to do on neurodesk becasue of crashing issue. The best way is to use independed free sufer
 
-```bash 
+```bash
    chmod+x run_freesurfer.sh
-   ```
-```bash 
-./run_freesurfer.sh 
 ```
 
-7. Run analysis script to generate all graphs and csv files 
-``` bash 
+```bash
+./run_freesurfer.sh
+```
+
+7. Run analysis script to generate all graphs and csv files
+
+```bash
 chmod+x run_analysis.sh
 ```
-```bash 
+
+```bash
 ./run_analysis.sh
 ```

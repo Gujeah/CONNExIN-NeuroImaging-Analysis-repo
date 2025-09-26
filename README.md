@@ -2,7 +2,7 @@
 
 <img src="repo Banner.png" alt="Project Banner" width="100%">
 
-### Quick links for navigation.
+### Quick links for easy navigation.
 
 [![Step 1](https://img.shields.io/badge/Step%201-Data%20Organization-blue?style=flat-square)](data/raw/)
 [![Step 1](https://img.shields.io/badge/Step%201-Data%20Validation-pink?style=flat-square)](data/bidsfied_data/)
@@ -63,7 +63,20 @@ git clone https://github.com/Gujeah/CONNExIN-NeuroImaging-Analysis-repo.git
 
 # Tools and Technologies used
 
-# Acknowldgements
+- **Neuroimaging**: [FreeSurfer v7.4.1](https://surfer.nmr.mgh.harvard.edu/), [MRIQC v24.0.2](https://mriqc.org/), [BIDS](https://bids.neuroimaging.io/)
+- **Languages**: Python 3.9 (`pandas`, `matplotlib`), Bash
+- **Validation**: `jsr:@bids/validator` via Deno
+- **Environment**: [Neurodesk](https://neurodesk.org/)
+- **Data**: Prevent-AD
+
+# Acknowledgements
+
+A special thanks to the MAILAB team and the Comprehensive Neuroimagining Analysis Experience
+in Resource Constrained Settings (CONNExIN team) for this opportunity, and to the Director Dr
+Udunna and Ethan for directing this program, and to our supervisors and co-Supervisors; Abdalla Z
+Mohamed, Sergio Solís Barquero, And Tolulope Olusuyi for all the Support and advice they gave
+towards the success of this project.
+Finally to all the members of the structural Team (A+T+S)for making this journey a memorable one.
 
 # Team Members
 

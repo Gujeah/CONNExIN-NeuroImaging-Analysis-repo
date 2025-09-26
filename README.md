@@ -2,8 +2,6 @@
 
 <img src="repo Banner.png" alt="Project Banner" width="100%">
 
-
-
 This project implements a **fully reproducible, automated pipeline** to analyze longitudinal structural MRI data from the [Prevent-AD dataset]. We track subtle changes in cortical thickness and subcortical volumes over 12 months in a single at-risk participant, revealing patterns consistent with early Alzheimer’s disease.
 
 **Motivation**: Early detection of structural alterations is critical for understanding disease progression
@@ -50,7 +48,7 @@ To address this research question, we applied a **structural imaging analysis pi
 
 ```bash
 git clone https://github.com/Gujeah/CONNExIN-NeuroImaging-Analysis-repo.git
-
+```
 
 # Tools and Technologies used
 
@@ -76,4 +74,7 @@ Radiologist & Postgraduate Student in Neuroimaging for Research, University of E
 
 **Leila Osman Hussein**
 Radiographer, Kenyatta University Teaching, Referral and Research Hospital, Kenya
+
+```
+
 ```
